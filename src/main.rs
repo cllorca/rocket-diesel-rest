@@ -1,3 +1,4 @@
+use postgres::{Client, Error, NoTls};
 #[macro_use] extern crate rocket;
 
 #[get("/")]
