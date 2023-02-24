@@ -1,0 +1,1 @@
+Rocket + Diesel + Postgres - skeleton
